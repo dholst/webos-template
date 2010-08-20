@@ -5,5 +5,5 @@
 	"type": "web",
 	"main": "index.html",
 	"title": "My App",
-	"icon": "images/icon.png"
+	"icon": "icon.png"
 }

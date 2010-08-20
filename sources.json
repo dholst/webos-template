@@ -1,6 +1,4 @@
-[
-  {source: "app/models/metrix.js"},
-  {source: "app/models/asyncWrappers.js"},
+
   {source: "app/models/my-app.js"},
 
   {source: "app/lib/ajax.js"},
