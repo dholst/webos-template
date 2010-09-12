@@ -1,9 +1,9 @@
+[
+  {"source": "app/models/my-app.js"},
 
-  {source: "app/models/my-app.js"},
+  {"source": "app/lib/ajax.js"},
 
-  {source: "app/lib/ajax.js"},
-
-  {source: "app/assistants/stage-assistant.js"},
-  {source: "app/assistants/base-assistant.js"},
-  {source: "app/assistants/first-assistant.js"}
+  {"source": "app/assistants/stage-assistant.js"},
+  {"source": "app/assistants/base-assistant.js"},
+  {"source": "app/assistants/first-assistant.js"}
 ]
